@@ -23,6 +23,7 @@ after edit on pull request, how it is?
 create new branch for change commit
 It load function 2
 create other branch after changed by reviewer
+create other branch after changed by reviewer
 **/
 public class MainActivity extends AppCompatActivity {
 
