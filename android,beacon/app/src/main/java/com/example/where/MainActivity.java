@@ -18,6 +18,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.UUID;
 
+/**
+after edit on pull request, how it is?
+**/
 public class MainActivity extends AppCompatActivity {
 
     private static final Map<String, List<String>> PLACES_BY_BEACONS;
