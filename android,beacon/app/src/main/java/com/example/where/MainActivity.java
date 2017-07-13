@@ -21,6 +21,7 @@ import java.util.UUID;
 /**
 after edit on pull request, how it is?
 create new branch for change commit
+it's function 3
 **/
 public class MainActivity extends AppCompatActivity {
 
