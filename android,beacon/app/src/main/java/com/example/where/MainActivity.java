@@ -19,7 +19,7 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
-hi
+after edit on pull request, how it is?
 **/
 public class MainActivity extends AppCompatActivity {
 
