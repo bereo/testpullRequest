@@ -23,7 +23,7 @@ It load function 2
 create other branch after changed by reviewer
 **/
 public class MainActivity extends AppCompatActivity {
-//hello 12334
+//hello 12334 6789
     private static final Map<String, List<String>> PLACES_BY_BEACONS;
 
     // TODO: replace "<major>:<minor>" strings to match your own beacons.
