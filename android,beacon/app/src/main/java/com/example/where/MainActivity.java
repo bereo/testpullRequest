@@ -19,14 +19,11 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
-after edit on pull request, how it is?
-create new branch for change commit
 It load function 2
-create other branch after changed by reviewer
 create other branch after changed by reviewer
 **/
 public class MainActivity extends AppCompatActivity {
-
+//hello 12334 6789
     private static final Map<String, List<String>> PLACES_BY_BEACONS;
 
     // TODO: replace "<major>:<minor>" strings to match your own beacons.
